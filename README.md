@@ -4,3 +4,4 @@ changes on editor2 line 2
 
 line 5
 line 6
+line 7
